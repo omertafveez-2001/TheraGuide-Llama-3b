@@ -3,7 +3,7 @@ trl
 peft
 bitsandbytes
 accelerate
-nlkt
+nltk
 pandas
 numpy
 torch
