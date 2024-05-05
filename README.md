@@ -20,3 +20,6 @@ The experimentation was to produce an instruction-tuned chatbot curated from a c
 - NLTK
 
 You can find more information in `requirements.txt`
+
+## Licence Credits
+The chatapp UI has forked from [Llama-2b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) by Meta. 
