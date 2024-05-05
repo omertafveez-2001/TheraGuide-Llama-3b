@@ -6,7 +6,7 @@ Introducing a Multi-Stage Chat Instruct Model as a Therapy Assistant right at yo
 
 The chatbot implementation is reproduced using the LIMA approach [Less is more Alignment](https://arxiv.org/abs/2305.11206). The training process of DistilBert and Llama-3B curates specific and complex structures of prompts and queries. <br>
 
-The experimentation was to produce an instruction-tuned chatbot curated from a complex conversational tool, "Therapy," which produced strong results, complying with the paper's findings:
+The experimentation was to produce an instruction-tuned chatbot curated from a complex conversational tool, "Therapy," which produced strong results, complying with the paper's findings: <br>
 `The reasoning, natural language understanding and most of the knowledge of the Large Language Model is learned during the pretraining process and only a finite number of instruction-paired samples are needed to fine-tune it on downstream tasks.` 
 
 ## Requirements
